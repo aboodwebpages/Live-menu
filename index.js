@@ -7,7 +7,7 @@
     
 
 window.alert("you must be 10+ to enter")
-window.close(1);
+window.close();
 }
 
  
